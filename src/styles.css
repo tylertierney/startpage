@@ -1,0 +1,23 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+*:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+/* body {
+  background: linear-gradient(
+    225deg,
+    rgba(125, 125, 125, 1) 0%,
+    rgba(198, 198, 198, 1) 100%
+  );
+} */
+
+.gridItem {
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.526);
+  border-radius: 10px;
+  user-select: none;
+}

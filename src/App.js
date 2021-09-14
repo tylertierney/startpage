@@ -395,7 +395,7 @@ function App() {
           <Text textAlign="center" fontSize="1.1rem">
             "{quote}"
           </Text>
-          <Text fontSize="0.9rem">- {quoteAuthor}"</Text>
+          <Text fontSize="0.9rem">- {quoteAuthor}</Text>
         </Flex>
       </GridItem>
     </Grid>
